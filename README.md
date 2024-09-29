@@ -24,6 +24,7 @@ este un modelo de arquitectura en sistemas de red que divide las tareas o cargas
    ### Pasos para ejecutar el codigo
    1. una vez que tengamos los dos codigo listo para ejecutar debemor ir primero al archivo del servidor y dejecutarlo, ya que el servidor debe estar en linea para         poder recibir la solicitud
    2. Se debe ejecutar el codigo del cliente donde se debera escribir lo siguite para activar la conexion
+      
     ```bash
     Python cliente.py
      ```
