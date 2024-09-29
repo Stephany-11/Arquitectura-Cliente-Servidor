@@ -11,7 +11,9 @@ este un modelo de arquitectura en sistemas de red que divide las tareas o cargas
 
 ### Guia para usar el codigo
 1. En primer lugar se debe asegutar de tener el paquete de python.3 y socket instalado ya que este codigo fue desarrollado mediante estas herramientas.
+   
 2. Crea 2 documentos uno para el servidor y otro para el cliente, copiando el respectivo codigo proporcionado es tes repositorio.
+   
  
     ```bash
     Servidor.py
@@ -21,12 +23,14 @@ este un modelo de arquitectura en sistemas de red que divide las tareas o cargas
       ```
 3. Se debe guardar el codigo para su ejecucion, verificando la integridad del codigo.
    
+   
    ### Pasos para ejecutar el codigo
-   1. una vez que tengamos los dos codigo listo para ejecutar debemor ir primero al archivo del servidor y dejecutarlo, ya que el servidor debe estar en linea para         poder recibir la solicitud
+   1. una vez que tengamos los dos codigo listo para ejecutar debemor ir primero al archivo del servidor y dejecutarlo, ya que el servidor debe estar en linea para         poder recibir la solicitud.
    2. Se debe ejecutar el codigo del cliente donde se debera escribir lo siguite para activar la conexion
       
-    ```bash
-    Python cliente.py
-     ```
-     automaticamente se genera un mesaje donde se garantiza que la conexion con el servidor fue exitosamente establecida.
+     ```bash
+     Python cliente.py
+      ```
+     Automaticamente se genera un mesaje donde se garantiza que la conexion con el servidor fue exitosamente establecida.
+   
    3. una vez que este la conexion se podra generar la conversacion entre *cliente-servidor*
